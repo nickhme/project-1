@@ -36,7 +36,7 @@ body {
 }
 
 .pika {
-  background-image: url('/Users/nickhme/development/project-1/assets/skeleton-sprite.png');
+  background-image: url('../assets/pika-sprite.png');
   background-repeat: no-repeat;
   background-size: contain;
   cursor: pointer;
